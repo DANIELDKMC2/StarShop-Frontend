@@ -1,4 +1,4 @@
-# referral_contract JSS
+# referral_contract JS
 
 JS library for interacting with [Soroban](https://soroban.stellar.org/) smart contract `referral_contract` via Soroban RPC.
 
